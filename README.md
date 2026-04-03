@@ -15,6 +15,7 @@ A curated list of infrastructure, tools, and services designed for the agentic e
 - [**E2B**](https://e2b.dev/) – Cloud runtime for AI agents and apps. Secure sandboxes for code execution.
 - [**Modal**](https://modal.com/) – High-performance serverless compute for AI models and data-intensive tasks.
 - [**Cloudflare**](https://www.cloudflare.com/) – Global edge network for low-latency agent logic and sandboxed workers.
+- [**Ghost**](https://ghost.build/) – Full computer-use environments and infrastructure to deploy persistent AI agents to dedicated VMs.
 
 ## 📁 File Systems, Databases & Memory
 
